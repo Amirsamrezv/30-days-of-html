@@ -74,9 +74,8 @@ Under utilized HTML elements
 Support the author to create more educational materials
 Paypal Logo
 30 Days Of HTML: Introduction
- Twitter Follow
-Author: Asabeneh Yetayeh
-February, 2020
+
+januray 2023
 
 Day 2 >>
 
